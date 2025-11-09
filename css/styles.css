@@ -1,0 +1,15 @@
+body{
+  /* color:tomato */
+}
+a{
+  /* text-decoration: none; */
+  color: inherit;
+
+}
+a:hover, 
+a:focus{
+  color: aqua;
+}
+ul{
+  list-style: none;
+}
